@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26030
     wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
 description: Parody of A.S.M. Hutchinson's If winter comes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27375#If-Winter-Don-t--13-A.B.C.D.E.F.-Notsomuchinson
 gutenberg_issued: '2008-12-01'
 gutenberg_type: Text
 identifiers:
